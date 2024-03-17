@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="ext">Ктоооо проживает на дне океана</string>
+    <string name="fontsize">fontsize</string>
+    <string name="leftright">leftright</string>
+    <string name="onoff">переключатель</string>
+    <string name="seerr">КТоооооо проживает на дне океана</string>
+    <string name="setting">setting</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

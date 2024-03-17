@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable luffy
+id buttonSettings
+id seekBar
+id switchN
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string ext
+string fontsize
+string leftright
+string onoff
+string seerr
+string setting
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
