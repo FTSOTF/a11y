@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="setting">setting</string>
+    <string name="ext">Ктоооо проживает на дне океана</string>
+    <string name="seerr">КТоооооо проживает на дне океана</string>
+    <string name="leftright">leftright</string>
+    <string name="onoff">переключатель</string>
+    <string name="fontsize">fontsize</string>
 </resources>
